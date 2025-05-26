@@ -15,6 +15,7 @@ go get github.com/wrestler094/httpserver
 
 ## Example
 
+```go
 import (
 	"log"
 	"net/http"
@@ -42,6 +43,7 @@ func main() {
 		log.Fatal("server error:", err)
 	}
 }
+```
 
 ## License
 This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
