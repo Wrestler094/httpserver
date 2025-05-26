@@ -10,7 +10,7 @@ Lightweight and idiomatic HTTP server wrapper for Go.
 ## Installation
 
 ```bash
-go get github.com/wrestler094/httpserver
+go get github.com/Wrestler094/httpserver
 ```
 
 ## Example
