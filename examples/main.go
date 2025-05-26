@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/Wrestler094/httpserver"
 	"github.com/go-chi/chi/v5"
-	"github.com/wrestler094/httpserver"
 )
 
 func main() {
